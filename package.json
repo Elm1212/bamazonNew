@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Elm1212/bamazonNew/issues"
   },
-  "homepage": "https://github.com/Elm1212/bamazonNew#readme"
+  "homepage": "https://github.com/Elm1212/bamazonNew#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
 }
