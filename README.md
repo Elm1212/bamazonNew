@@ -14,3 +14,5 @@ Next, you will type in a number of the items you would like to purchase and if s
 When the table pulls up again, then the stock_quantity column will be reduced by the number of items you purchased.
 
 See demo below :)
+
+![](bamazonGIF.gif)
