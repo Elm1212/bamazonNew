@@ -29,7 +29,7 @@ var promptCustomer = function(res){
     inquirer.prompt([{
         type: 'input',
         name: 'choice',
-        message: "What item ID would you like to purchase? [Quit with Q]"
+        message: "What item would you like to purchase? [Quit with Q]"
     }]).then(function(answer){
         var correct = false;
         if(answer.choice.toUpperCase()=="Q"){
