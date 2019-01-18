@@ -15,4 +15,4 @@ When the table pulls up again, then the stock_quantity column will be reduced by
 
 See demo below :)
 
-![](bamazonGIF.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
